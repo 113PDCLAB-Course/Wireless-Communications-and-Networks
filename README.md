@@ -7,3 +7,6 @@
 * [physical layer](https://docs.google.com/presentation/d/1Kyb_5DlkUaAOTdarHIZ0Fa1DHVYYKuyX/edit#slide=id.p1)
 * [LoRA](https://docs.google.com/presentation/d/1s3f43Au52yRXpWvBDr-bi3jrDXuwGN5q/edit#slide=id.p1)
 
+## Lab 作業連結
+* ![Lab1 - 在 MultiTech mDot 板上執行 helloworld](./Lab1/README.md)
+
