@@ -8,6 +8,7 @@
 * 將 `main.cpp` 的 code 複製到 Keli studio Cloud IDE 的 `main.cpp` 上
 * 使用 `screen` 指令，監控設備的 output 出現 `Group #3 completed this build` 
 
-
+## 實驗結果
+![](./Screenshot%20from%202024-11-26%2015-35-58.png)
 
 
